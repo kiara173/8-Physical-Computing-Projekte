@@ -11,7 +11,7 @@ In diesem Projekt wird ein Roboterarm durch Handbewegungen gesteurt. Hierfür we
 ![](https://hackster.imgix.net/uploads/attachments/337553/dsc05194_sDcCjG6v9x.jpg?auto=compress%2Cformat&w=900&h=675&fit=min)
 https://create.arduino.cc/projecthub/will-su/touchless-automatic-motion-sensor-trash-can-bbeed1?ref=tag&ref_id=servo&offset=1
 
-In diesem Proejtk öffent sich eine Mülltonne, wenn der Ultraschall Abstandssensor, einen Gegenstand vor ihm erkannt hart. Der Ultraschall-/Füllstandssensoren misst den Abstand mit Hilfe von Ultraschallwellen. Der Mülleimer öffnet sich mithilfe eines Servo Motors.
+In diesem Projekt öffnet sich eine Mülltonne, wenn der Ultraschall Abstandssensor, einen Gegenstand vor ihm erkannt hat. Der Ultraschall-/Füllstandssensoren misst den Abstand mit Hilfe von Ultraschallwellen. Der Mülleimer öffnet sich mithilfe eines Servo Motors.
 
 ### 3. Stereo NeoPixel Ring VU Meter
 ![](https://hackster.imgix.net/uploads/attachments/360975/img_2105_o8wjhaOVJP.JPG?auto=compress%2Cformat&w=900&h=675&fit=min)
@@ -23,7 +23,7 @@ Dieses Projekt zeigt einen Stereo-VU-Meter,der mit einem Arduino Nano und zwei N
 ![](https://cdn-learn.adafruit.com/assets/assets/000/039/288/medium800/3d_printing_hero-1.jpg?1487038809)
 https://learn.adafruit.com/bluetooth-le-midi-controller/overview
 
-Dieses Proejkt zeigt eine MIDI Drum Machine. Es verfügt über sechs kapazitive Berührungssensoren, die MIDI-Noten auslösen. Wird auf eines der Pads getippt, und es wird eine Note gespielt.
+Dieses Projekt zeigt eine MIDI Drum Machine. Es verfügt über sechs kapazitive Berührungssensoren, die MIDI-Noten auslösen. Wird auf eines der Pads getippt, und es wird eine Note gespielt.
 
 ## Projekte die ich gerne im Kurs machen würde
 
@@ -34,7 +34,7 @@ Ich würde gerne ein Projekt mit Pflanzen verbinden wollen. Mich interessieren P
 ![](https://content.instructables.com/ORIG/FKK/9RW7/K8P8LNVO/FKK9RW7K8P8LNVO.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=3295d85270fe6efd1ad96436d4c7fc66)
 https://www.instructables.com/HotKeys-Keyboard-With-Custom-Profiles/
 
-Dieses Projekt zeigt, wie man ein Keyboard mit eigenen Shortcuts bauen kann. Ich finde die Dokumetation sehr gut und übersichtlich und sollte keine größen Hürden haben, dieses Projekt realisieren zu können. Das einizige Problem stellt für mich der 3D Druck dar. 
+Dieses Projekt zeigt, wie man ein Keyboard mit eigenen Shortcuts bauen kann. Ich finde die Dokumetation sehr gut und übersichtlich und ich sollte keine größen Hürden haben, dieses Projekt realisieren zu können. Das einizige Problem stellt für mich der 3D Druck dar. 
 
 ### 6. A shortcut keyboard for designers
 ![](https://freight.cargo.site/w/1750/i/de5dc21f90bb2e53ca5fd683a2b65c408deb26b6bb0e7bf9418c8d22e2d264d6/Screen-Shot-2019-07-21-at-9.20.50-PM.png)
